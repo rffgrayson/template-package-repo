@@ -1,0 +1,5 @@
+test-directory/
+   .git/
+   .gitignore
+   *.md
+   .env

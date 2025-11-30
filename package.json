@@ -1,6 +1,6 @@
 {
   "name": "@rffgrayson/template-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "package-template",
   "main": "src/index.js",
   "scripts": {
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/rffgrayson/template-package-repo/issues"
   },
-  "homepage": "https://github.com/rffgrayson/template-package-repo#readme",
-  "dependencies": {
-    "@rffgrayson/template-package": "^1.0.1"
-  }
+  "homepage": "https://github.com/rffgrayson/template-package-repo#readme"
 }
