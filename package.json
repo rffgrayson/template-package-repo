@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/rffgrayson/template-package-repo#readme",
   "dependencies": {
-    "@rffgrayson/template-package": "^1.0.0"
+    "@rffgrayson/template-package": "^1.0.1"
   }
 }
